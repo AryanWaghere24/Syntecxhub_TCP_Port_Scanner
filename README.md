@@ -305,8 +305,8 @@ python --version
 ### Method 1: Git Clone (Recommended)
 
 ```bash
-git clone https://github.com/AryanWaghere24/CyberEye.git
-cd CyberEye
+git clone https://github.com/AryanWaghere24/Syntecxhub_TCP_Port_Scanner.git
+cd Syntecxhub_TCP_Port_Scanner
 python CyberEye.py -h
 ```
 
