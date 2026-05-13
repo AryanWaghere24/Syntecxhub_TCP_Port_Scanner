@@ -42,13 +42,11 @@
 
 ### Installation
 
+# Direct Download
 1. Download `CyberEye.py`
 2. Place in desired directory
 3. Run: `python CyberEye.py -t target.com`
-# Direct Download
 
-# No dependencies needed!
-# Just run directly with Python 3.6+
 
 ### Basic Usage
 
