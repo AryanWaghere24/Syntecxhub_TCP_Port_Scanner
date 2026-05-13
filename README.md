@@ -42,14 +42,13 @@
 
 ### Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/AryanWaghere24/Syntecxhub_TCP_Port_Scanner.git
-cd Syntecxhub_TCP_Port_Scanner
+1. Download `CyberEye.py`
+2. Place in desired directory
+3. Run: `python CyberEye.py -t target.com`
+# Direct Download
 
 # No dependencies needed!
 # Just run directly with Python 3.6+
-```
 
 ### Basic Usage
 
@@ -313,19 +312,12 @@ cd CyberEye
 python CyberEye.py -h
 ```
 
-### Method 2: Direct Download
+### Method 2: Direct Download (Bestest)
 
 1. Download `CyberEye.py`
 2. Place in desired directory
 3. Run: `python CyberEye.py -t target.com`
 
-### Method 3: Add to PATH (Optional)
-
-```bash
-# On Linux/macOS
-chmod +x CyberEye.py
-# Add to /usr/local/bin for system-wide access
-```
 
 ---
 
