@@ -44,8 +44,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/AryanWaghere24/CyberEye.git
-cd CyberEye
+git clone https://github.com/AryanWaghere24/Syntecxhub_TCP_Port_Scanner.git
+cd Syntecxhub_TCP_Port_Scanner
 
 # No dependencies needed!
 # Just run directly with Python 3.6+
