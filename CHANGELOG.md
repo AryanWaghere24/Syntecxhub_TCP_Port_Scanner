@@ -170,7 +170,7 @@ python CyberEye.py -t google.com -r 1-1000 --threads 200
 ## Contribution History
 
 **Contributors to v1.0.0:**
-- Your Name (Initial development)
+- Aryan Waghere (Initial development)
 
 Thank you to all who reported issues and suggestions!
 
@@ -192,7 +192,7 @@ None reported.
 
 ### Responsible Disclosure
 
-If you discover a security vulnerability, please email security@yourproject.com instead of using the issue tracker.
+If you discover a security vulnerability, please email aryanwaghere24@gmail.com instead of using the issue tracker.
 
 ---
 
@@ -212,6 +212,6 @@ All versions are licensed under MIT License. See LICENSE file for details.
 
 ---
 
-**Last Updated:** February 8, 2025
+**Last Updated:** December 29, 2025
 **Current Version:** 1.0.0
 **Status:** Active Development
