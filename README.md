@@ -44,7 +44,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CyberEye.git
+git clone https://github.com/AryanWaghere24/CyberEye.git
 cd CyberEye
 
 # No dependencies needed!
@@ -308,7 +308,7 @@ python --version
 ### Method 1: Git Clone (Recommended)
 
 ```bash
-git clone https://github.com/yourusername/CyberEye.git
+git clone https://github.com/AryanWaghere24/CyberEye.git
 cd CyberEye
 python CyberEye.py -h
 ```
@@ -436,7 +436,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Aryan Waghere]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -453,9 +453,9 @@ copies or substantial portions of the Software.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Aryan Waghere**
+- GitHub: [@AryanWaghere24](https://github.com/AryanWaghere24)
+- Email: aryanwagherework@gmail.com
 
 ---
 
@@ -518,4 +518,4 @@ This project demonstrates:
 ---
 
 *Last updated: February 2025*
-*Made with ❤️ by [Your Name]*
+*Made with ❤️ by [Aryan_Waghere]*
